@@ -58,7 +58,7 @@ The interconnected hardware components collectively form the architecture of the
 
 ## Device Diagram
 
-![Device Diagram](path_to_your_image_file)
+![Device Diagram](device_diagram.png)
 
 This diagram provides a comprehensive view of the device structure and its components.
 
